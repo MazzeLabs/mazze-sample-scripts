@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@mazze-labs/mazze-js-sdk": "^0.1.1"
+  }
+}
